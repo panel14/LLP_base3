@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataFileAPI",
+    "\\OSFileAPI",
+    "\\StorageFileInnerAPI",
+    "\\StorageFilePublicAPI",
+    "\\tree_node",
+    "\\tree_schema",
+    "\\UserAPI",
+    "\\UserAPI\\InteractiveMode",
+    "\\Utils"
+  ],
+  "SelectedNode": "\\main.c",
+  "PreviewInSolutionExplorer": false
+}
