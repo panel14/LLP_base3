@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_encode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_decode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_encode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\pb_decode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{39F88764-B0EC-380D-8769-DA0655506ACD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{22217E9D-342D-36AD-AAAA-31F62BD66FCA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

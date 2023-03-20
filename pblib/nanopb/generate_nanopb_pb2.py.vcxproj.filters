@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\CMakeFiles\5e9af723b75bc8cca1fd238edee2ae07\nanopb_pb2.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\CMakeFiles\13059d0d139ae7fa8eacc9cea343ae14\generate_nanopb_pb2.py.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\Учеба\3 курс\LLP\lab3\LLP_base3\pblib\nanopb\CMakeFiles\generate_nanopb_pb2.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1FF8D810-929B-30C8-A31A-59BC5580A5D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
